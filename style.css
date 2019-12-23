@@ -52,12 +52,12 @@
     font-size: 25px;
 }
 
-.nav ul li a:hover {
-    color: #fc0;
-}
-
 .nav li:hover {
      transform: translateY(-10px);
+}
+
+.nav li:hover a{
+    color: #fc0;
 }
 
 h1 {
